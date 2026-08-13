@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="0dp"
+    android:layout_height="0dp"
+    android:foreground="?android:attr/selectableItemBackground"
+    android:clickable="true"
+    android:focusable="true">
+
+    <TextView
+        android:id="@+id/cellLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/text_on_cell"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <View
+        android:id="@+id/soundIndicator"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_gravity="top|end"
+        android:layout_margin="4dp"
+        android:background="@drawable/dot_indicator"
+        android:visibility="gone" />
+
+</FrameLayout>

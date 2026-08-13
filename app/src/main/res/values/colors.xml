@@ -1,0 +1,7 @@
+<resources>
+    <color name="cell_light">#F0D9B5</color>
+    <color name="cell_dark">#B58863</color>
+    <color name="indicator_color">#33CC33</color>
+    <color name="background">#1B1B1B</color>
+    <color name="text_on_cell">#22222222</color>
+</resources>

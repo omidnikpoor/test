@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.ChessSoundboard" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/background</item>
+        <item name="colorPrimary">#B58863</item>
+        <item name="colorPrimaryDark">#8B6B4A</item>
+    </style>
+</resources>

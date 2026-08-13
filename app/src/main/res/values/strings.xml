@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chess Soundboard</string>
+    <string name="hint_text">لمس کوتاه: پخش صدا  •  لمس طولانی: افزودن/تعویض صدا</string>
+</resources>
